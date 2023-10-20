@@ -6,7 +6,7 @@ import { Bebas_Neue } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] })
 const bebasNeue = Bebas_Neue({ subsets: ['latin'], weight: ['400' as const], variable: '--bebas-font' })
 export const metadata: Metadata = {
-  title: 'Hotel Booking App',
+  title: 'Mega Shop',
   description: 'By Rakibul Islam',
 }
 
