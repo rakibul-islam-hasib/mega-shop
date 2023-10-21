@@ -1,4 +1,7 @@
+import { BsHeadphones, BsMouse, BsPhone } from "react-icons/bs";
 import { FaLaptop } from "react-icons/fa";
+import { IoGameControllerOutline } from "react-icons/io5";
+import { FiMonitor } from "react-icons/fi";
 
 // TYPES and INTERFACES
 type Product = {
@@ -48,8 +51,33 @@ export const topProducts: Product[] = [
 
 export const category: Category[] = [
     {
-        name: 'Laptops',
+        name: 'Laptops & Computers',
         icon: <FaLaptop />,
+        items: []
+    },
+    {
+        name: 'Phones & Tablets',
+        icon: <BsPhone />,
+        items: []
+    },
+    {
+        name: 'Headphones & Speakers',
+        icon: <BsHeadphones />,
+        items: []
+    },
+    {
+        name: 'Game & Consoles',
+        icon: <IoGameControllerOutline />,
+        items: []
+    },
+    {
+        name: 'TV & Home Theater',
+        icon: <FiMonitor />,
+        items: []
+    },
+    {
+        name: 'Accessories',
+        icon: <BsMouse />,
         items: []
     }
 ]
