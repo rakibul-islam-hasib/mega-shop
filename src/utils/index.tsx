@@ -1,3 +1,5 @@
+import { FaLaptop } from "react-icons/fa";
+
 // TYPES and INTERFACES
 type Product = {
     _id: number;
@@ -39,3 +41,10 @@ export const topProducts: Product[] = [
     }
 
 ];
+
+export const category = [
+    {
+        name: 'Laptops',
+        icon: <FaLaptop />
+    }
+]
