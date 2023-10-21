@@ -1,7 +1,10 @@
-import { BsHeadphones, BsMouse, BsPhone } from "react-icons/bs";
+import { BsHeadphones, BsMouse, BsPhone, BsRouter } from "react-icons/bs";
 import { FaLaptop } from "react-icons/fa";
-import { IoGameControllerOutline } from "react-icons/io5";
+import { IoBicycle, IoGameControllerOutline, IoWatchOutline } from "react-icons/io5";
 import { FiMonitor } from "react-icons/fi";
+import { AiOutlineCar, AiOutlinePrinter } from "react-icons/ai";
+import { RiRobot2Line } from "react-icons/ri";
+import { TbDrone } from "react-icons/tb";
 
 // TYPES and INTERFACES
 type Product = {
@@ -78,6 +81,41 @@ export const category: Category[] = [
     {
         name: 'Accessories',
         icon: <BsMouse />,
+        items: []
+    },
+    {
+        name: 'Networking',
+        icon: <BsRouter />,
+        items: []
+    },
+    {
+        name: 'Office solutions',
+        icon: <AiOutlinePrinter />,
+        items: []
+    },
+    {
+        name: 'Home & Outdoor',
+        icon: <RiRobot2Line />,
+        items: []
+    },
+    {
+        name: 'Sport & Health',
+        icon: <IoBicycle />,
+        items: []
+    },
+    {
+        name: 'Smart Watches',
+        icon: <IoWatchOutline />,
+        items: []
+    },
+    {
+        name: 'Toy & Games',
+        icon: <TbDrone />,
+        items: []
+    },
+    {
+        name: 'Automotive & Industrial',
+        icon: <AiOutlineCar />,
         items: []
     }
 ]
