@@ -6,7 +6,11 @@ type Product = {
     name: string;
 };
 
-
+type Category = {
+    name: string;
+    icon: JSX.Element;
+    items: [];
+};
 
 // DATA and EXPORTS
 
@@ -42,9 +46,10 @@ export const topProducts: Product[] = [
 
 ];
 
-export const category = [
+export const category: Category[] = [
     {
         name: 'Laptops',
-        icon: <FaLaptop />
+        icon: <FaLaptop />,
+        items: []
     }
 ]
