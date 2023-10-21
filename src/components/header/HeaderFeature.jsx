@@ -1,5 +1,7 @@
 import { topProducts } from '@/utils';
+import hart from '@/assets/icons/love.svg';
 import React from 'react';
+import Image from 'next/image';
 
 const HeaderFeature = () => {
     return (
@@ -12,7 +14,9 @@ const HeaderFeature = () => {
                     }
                 </div>
                 <div className="">
-
+                    <div className="">
+                        <Image width={30} height={30} alt='Blog Icon' src={hart} />
+                    </div>
                 </div>
             </div>
 
