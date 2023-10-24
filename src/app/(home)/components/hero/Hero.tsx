@@ -1,9 +1,10 @@
 import React from 'react';
+import Slider from './Slider';
 
 const Hero = () => {
     return (
         <div>
-            <h1>Hero Section</h1>
+            <Slider />
         </div>
     );
 };
