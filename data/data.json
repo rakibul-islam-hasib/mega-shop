@@ -1,0 +1,556 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4z0FBK3W-JfdBPoEFUl_taL5DuM",
+  "nextPageToken": "CBAQAA",
+  "regionCode": "BD",
+  "pageInfo": {
+    "totalResults": 16101,
+    "resultsPerPage": 16
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pa-gek6A78U-EGD7-ucaKRVltZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l1sXpJ4WKrU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T12:13:54Z",
+        "channelId": "UCJxkqGJwIVeMOKd7ADdg71Q",
+        "title": "Web_development",
+        "description": "Let's learn together.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l1sXpJ4WKrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l1sXpJ4WKrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l1sXpJ4WKrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ajay Garg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T12:13:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YgFDH--8h_vd8YQSrQkHS-BrdBE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PX6Dj79L7vg"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-23T21:56:14Z",
+        "channelId": "UC_EBVMId-J2zAXmbckWt0Fw",
+        "title": "WEB_DEVELOPMENT",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PX6Dj79L7vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PX6Dj79L7vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PX6Dj79L7vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tomas Nikel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-23T21:56:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7pBy_dBxhDx14qNArg5BgIZO0s8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Pt3H3Kw2Nk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-13T22:47:37Z",
+        "channelId": "UCFlcUC2KxGILNf3p86YZ9Hg",
+        "title": "WEB_DEVELOPMENT DA HAUSA",
+        "description": "Web development refers to the process of creating and building websites and web applications that are accessible through the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Pt3H3Kw2Nk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Pt3H3Kw2Nk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Pt3H3Kw2Nk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "usama code &Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-13T22:47:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yo5CFBL9AUcMKuvy9LWxWTwptos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p6PfJqhLGYw"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-08T11:16:20Z",
+        "channelId": "UCeRPm4P8cGlRN6R_DjMcIqg",
+        "title": "Viral Shorts #viral #shorts #web_development  #web_tools",
+        "description": "2023 #web_development_tools #tutorial.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6PfJqhLGYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6PfJqhLGYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6PfJqhLGYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-08T11:16:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bqqasqRu4rzuWqBzD98iczJKhns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bm5fmdPenkQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-12T10:36:05Z",
+        "channelId": "UC0a-xbqUvo-mp_zrstn3Zmw",
+        "title": "#Web_Development #Introduction_to_HTML_CSS_JS #1",
+        "description": "Complete_Web_Development #Introduction_to_HTML_CSS_JS #1 #Begginer_to_Pro #Complete_WebDevelopment-Playlist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bm5fmdPenkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bm5fmdPenkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bm5fmdPenkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MATA BHAGWATI MAHADEVI GAYATRI SANSKARSHALA ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-12T10:36:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Es9yrcdXP7Qv1tCzPGHPblI7peA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "izNzLC-Zw-0"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-07T16:40:32Z",
+        "channelId": "UCruRBI2b_5r9T6mcvIA_5BA",
+        "title": "কিভাবে কোড মনে রাখবেন? 🤔 #shorts",
+        "description": "যদি আপনি ঠিক কোড লিখতে না পারেন, বার বার কোড ভুলে যান তবে এই ভিডিও ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/izNzLC-Zw-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/izNzLC-Zw-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/izNzLC-Zw-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Procoder BD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-07T16:40:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3RmS7V7qBdMTb-kFiqy-OYkVAME",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rtqP5bOa4HY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-26T09:13:06Z",
+        "channelId": "UC-AGC0JPqbFLQ8GbaLLxrEQ",
+        "title": "#Web_development #Html_Series",
+        "description": "All Videos : https://www.youtube.com/playlist?list=PLMMs5ht4mJ2PMOk07Az6G4fwbTVRuW3KT Follow on facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtqP5bOa4HY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtqP5bOa4HY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtqP5bOa4HY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ek Sathi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-26T09:13:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TgwQIsdauNvef1IV8AxhyYdc36o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RfiT0qmM21U"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-20T06:01:21Z",
+        "channelId": "UCjom-BhE_5Onn8hjuCP41CQ",
+        "title": "Part 17 Web design and development Bangla tutorial paid course 2024  BD Technology",
+        "description": "Part 17 Web design and development Bangla tutorial paid course 2024 BD Technology Tags: Web Design, Web development, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RfiT0qmM21U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RfiT0qmM21U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfiT0qmM21U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BD Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-20T06:01:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PLqdX_Kr53V7XMA_xhNZVTrXglM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KRwO53pfbFo"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-31T09:00:29Z",
+        "channelId": "UCBsZfZuhZQlVWNGcwILGLug",
+        "title": "WEB DEVELOPMENT ROAD MAP PART 1 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KRwO53pfbFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KRwO53pfbFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KRwO53pfbFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "\u003cWebWeaver'sDen\u003e",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-31T09:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IiNqqeM5A__rOGoXToFM-eolr90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nyCkV-FIWfY"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-06T14:56:27Z",
+        "channelId": "UCl962BDJC9Sa5o9LjYU8H_Q",
+        "title": "WEB_DEVELOPMENT|FULL STACK WEB DEVELOPMENT|PROGRAMMING|",
+        "description": "WebDevelopment #ComputerProgramming #WebDesign FREE TRAINING ON SUPER AFFILIATE SYSTEM: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nyCkV-FIWfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nyCkV-FIWfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nyCkV-FIWfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Programming For Everyone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-06T14:56:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kN_ZXMW_pfAuKCARb4dR8c-pOg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P5Q2vG4yfVY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T20:01:52Z",
+        "channelId": "UCBGOvDwelgSNbmf4FLMoR3A",
+        "title": "funny video clips #foryou #foryou #development #web_development",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5Q2vG4yfVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5Q2vG4yfVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5Q2vG4yfVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PTI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T20:01:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P-ccXOTyucJ_PpZ45hJWoIDiHM0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p6PJRgLqiL8"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-21T17:09:35Z",
+        "channelId": "UCjoB1WfD9ZWKIsDsDt_1aJA",
+        "title": "#web_Development web development tutorial| INTRO| ARKS INDUSTRY| Web Development|",
+        "description": "Hi friends this is the intro to our new series called Web Development. in this series we will learn about how to create a website.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p6PJRgLqiL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p6PJRgLqiL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p6PJRgLqiL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ARKS INDUSTRY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-21T17:09:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uXIi9PZ98Cr8nNRUgj_WJDG2Yh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hgmQJ-ypALA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T13:50:11Z",
+        "channelId": "UCfM0v7yz1n2iVmXtk0cJZFw",
+        "title": "Popular stack in web development #follow_full_stack_interview_qa👨\u200d💻 #web_development #interview_qa👿🚀",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hgmQJ-ypALA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hgmQJ-ypALA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgmQJ-ypALA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The_Tech_Talk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T13:50:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RFaHQ-QcC_kABfW1zdidtwkuOWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LeoNcrssE_s"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-03T11:02:07Z",
+        "channelId": "UCBGOvDwelgSNbmf4FLMoR3A",
+        "title": "dil tere nam #web_Development #development #foryou #web_development",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LeoNcrssE_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LeoNcrssE_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LeoNcrssE_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PTI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-03T11:02:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uk1AuM8dNA3bhVWMcMjg40JcWxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g2ZFGCYL0rk"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-31T13:30:24Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "43/100 Tricks: HTML CSS JS Animation and Effects #htmlcss #webdevelopment #css #coding",
+        "description": "In this short video series, you'll learn how to create 100 mind-blowing HTML CSS JS animation effects in just 1 minute! This is part ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g2ZFGCYL0rk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-31T13:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wTaH1ZGE3pjMZVwp-uLYCEiciIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dxMuShVKWJs"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T04:28:52Z",
+        "channelId": "UChY68pmmS8_2lDB-HGOWEBA",
+        "title": "#IdeasPark #Web #Print #SocialWeb Design and Development#Web_Development @IdeasParkWant",
+        "description": "IdeasPark #Web #Print #Social Web Design and Development #Web_Development @IdeasPark Want to Develop a Website?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dxMuShVKWJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dxMuShVKWJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dxMuShVKWJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jinsen Karedath",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-25T04:28:52Z"
+      }
+    }
+  ]
+}
